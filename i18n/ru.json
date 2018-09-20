@@ -1,0 +1,10 @@
+{
+    "widget":{
+        "name":"CSV",
+        "short_description":"go go go",
+        "description":"Полное описание виджета"
+    },
+    "settings":{
+        "login":"что-то"
+    }
+}

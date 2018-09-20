@@ -1,0 +1,29 @@
+{
+    "widget":{
+            "name": "widget.name",
+            "description": "widget.description",
+            "short_description": "widget.short_description",
+            "code": "wudget",
+            "secret_key": "7f8d6f71650f33f337e655187ff6ff0c1700237d0fc639cea9e778fd511c0ef2",
+            "version": "1.0.0",
+            "interface_version": 2,
+            "init_once": false,
+            "locale":[
+                    "ru",
+                    "en"                   
+                    ],
+            "installation": true
+            },
+    "locations":[
+            "everywhere",
+            "settings"
+            ],
+    "settings":{
+                "login":{
+                        "name": "settings.login",
+                        "type": "text",
+                        "required": true
+                        }
+                
+            }
+}
